@@ -1,0 +1,6 @@
+customhost = "database-1.casakubq7ppa.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "kiran1997"
+customdb = "employee"
+custombucket = "projectbucket001"
+customregion = "ap-south-1"
